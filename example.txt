@@ -1,3 +1,4 @@
 hello
 we are learning git 
+git is distributed version control system
 git hub
