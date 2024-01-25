@@ -1,0 +1,6 @@
+We are learning Linux
+Learning linux on Virtual Machine
+This is Spark and Aws Bathc
+Learning Spark using Python
+python is dynamically typed language
+
